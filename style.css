@@ -43,3 +43,10 @@ body {
     font-family: Geneva,Arial,Helvetica,sans-serif;
     font-size: 18px;
 }
+
+div.body {
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
