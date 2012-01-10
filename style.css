@@ -37,4 +37,9 @@ abbr,acronym { border:0;
 
 body {
     background-image: url('http://farm2.staticflickr.com/1380/820396208_ab70198b2d_o.jpg');
+    background-color: #000;
+    color: #fff;
+    
+    font-family: Geneva,Arial,Helvetica,sans-serif;
+    font-size: 18px;
 }
