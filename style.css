@@ -33,3 +33,8 @@ q:before,q:after {
 }
 abbr,acronym { border:0;
 }
+
+
+body {
+    background-image: url('http://farm2.staticflickr.com/1380/820396208_ab70198b2d_o.jpg');
+}
