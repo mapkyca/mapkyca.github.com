@@ -50,3 +50,16 @@ div.body {
     margin-right: auto;
     margin-top: 150px;
 }
+
+div.body div.contact div.mugshot img {
+    width: 200px;
+}
+
+div.body div.contact div.mugshot {
+    width: 210px;
+    height: 210px;
+    padding: 5px;
+    border: 1px solid #fff;
+    float: left;
+    margin-right:20px;
+}
