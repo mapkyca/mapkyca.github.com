@@ -52,11 +52,13 @@ div.body {
 }
 
 div.body a {
-    
+    font-weight: bold;
+    text-decoration: none;
+    color: #aaa;
 }
 
 div.body a:hover {
-    
+    color: #fff;
 }
 
 div.contact h1 {
@@ -139,4 +141,32 @@ div.body div.highlighted_projects div.project {
     padding-right: 10px;
     border: 2px solid #222;
     margin-top: 20px;
+}
+
+div.body div.highlighted_projects div.project h3 {
+    margin-bottom: 10px;
+}
+
+div.body div.highlighted_projects div.project div.links {
+    margin-top: 10px;
+    text-align: right;
+    font-size: 0.8em;
+}
+
+div.body div.highlighted_projects div.project p {
+    font-style: italic;
+}
+
+div.body div.shares {
+    margin-top: 20px;
+}
+
+div.body div.shares div.fb-like {
+	width: 60px;
+}
+
+div.body div.shares div.shareblob {
+    float: left;
+    margin-top: 20px;
+    width: 60px;
 }
